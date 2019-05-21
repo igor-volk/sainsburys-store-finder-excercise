@@ -1,0 +1,5 @@
+To run the app:
+
+1) yarn
+2) yarn start to see it on http://localhost:3000
+3) Enter “EC1N 2HT” into search to see results

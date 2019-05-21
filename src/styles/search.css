@@ -1,0 +1,34 @@
+#search-label {
+  display: block;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: row;
+  height: 30px;
+  width: 400px;
+  margin-top: 10px;
+}
+
+.input-container > input {
+  margin: 0;
+  line-height: 40px;
+}
+
+.input-container > button {
+  background-color: #EC5C00;
+  width: 40px;
+  height: 100%;
+  margin-left: 20px;
+}
+
+span.submit-btn-bg {
+  background: url(../assets/search-icon.svg) no-repeat top left;
+  background-size: contain;
+  cursor: pointer;
+  display: inline-block;
+  height: 16px;
+  width: 16px;
+}

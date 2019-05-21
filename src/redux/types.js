@@ -1,0 +1,8 @@
+const actionTypes = {
+  LOAD_DATA_SUCCESS: 'LOAD_DATA_SUCCESS',
+  LOAD_DATA_FAILURE: 'LOAD_DATA_FAILURE',
+  SEARCH: 'SEARCH',
+  TOGGLE_HIGH_CONTRAST: 'TOGGLE_HIGH_CONTRAST',
+};
+
+export default actionTypes;
